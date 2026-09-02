@@ -1,9 +1,12 @@
 {
-  "latestVersion": "1.1",
+  "latestVersion": "1.0.1",
   "minecraftVersion": "1.21.11",
   "changelog": [
-    "change name for the client",
-    "fixed skin rendering",
-    "New gradient prefix :D"
+    "titlescreen rework",
+    "more modules added",
+    "fixed some modules"
   ]
 }
+
+# this version /\
+# is an "temp" thing, will be bring back to 1.0 on release (if any)
